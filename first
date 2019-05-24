@@ -1,22 +1,4 @@
 <?php
 $kavash = "";
 switch($kavash){
-case "LOVE MOOD":
-echo "Love you and hug yu paapu";
-break;
-case "ANGER MOOD":
-echo "Just leave me alone";
-break;
-case "SAD MOOD":
-echo "Miss you kutty, wagery waiting to see yu";
-break;
-case "FRUSTRATED":
-echo "Get lost, I have more job needs to be complete";
-break;
-case "OPTIMISTIC":
-echo "TCS or ENGIE is not my cup of coffee, leave it and I need to spend time for you.. bisuuu";
-break;
-default:
-echo "I will be always there for you";
-break;
-}
+
